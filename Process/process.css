@@ -12,34 +12,41 @@ body {
     font-size: 12px;
     /* Setting baseline font size */
     font-family: Avenir;
+    background-color: #000000;
 }
 
 ol {
     padding-left: 50px;
     font-size: 18px;
+    color: white;
 }
 
 /* Start of text sizes */
 h1 {
     font-size: 4em;
     font-family: Avenir;
+    color: white;
 }
 
 h2 {
     font-size: 3em;
     font-family: Avenir;
+    color: white;
 }
+
 
 p {
     font-size: 2em;
     line-height: 1.5em;
     font-family: Avenir;
+    color: white;
 }
 
 
 figcaption {
     font-size: 1.25em;
     font-family: Avenir;
+    color: white;
 }
 
 
@@ -88,7 +95,7 @@ img {
 }
 
 button {
-    background-color: #ff0000;
+    background-color: #ee0000;
     color: #fff;
     font-size: 16px;
     font-family: Avenir;
